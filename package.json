@@ -1,0 +1,28 @@
+{
+  "name": "denullify",
+  "version": "1.0.0",
+  "description": "removes nulls and undefineds from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/denullify.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/denullify/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/denullify#readme",
+  "keywords": [
+    "null",
+    "undefind",
+    "remove",
+    "delete"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.3"
+  }
+}
